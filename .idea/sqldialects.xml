@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/cw5_queries.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/table_inputs.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/tables_creations.sql" dialect="PostgreSQL" />
+  </component>
+</project>
